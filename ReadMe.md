@@ -2,7 +2,7 @@
 
 A simple iOS application that showcases characters from the Rick and Morty universe.
 
-![Rick and Morty App Screenshot](screenshot.png)
+<img src="screenshot.png" width="300" alt="Rick and Morty App Screenshot">
 
 ## Features
 
@@ -21,7 +21,7 @@ A simple iOS application that showcases characters from the Rick and Morty unive
 
 1. Clone the repository
 ```bash
-git clone https://github.com/ibvildthings/rick-and-morty-ios.git
+git clone https://github.com/ibvildthings/Rick-and-Morty-iOS.git
 ```
 
 2. Open the `.xcodeproj` file in Xcode
