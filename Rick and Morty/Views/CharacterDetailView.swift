@@ -1,10 +1,3 @@
-//
-//  CharacterDetailView.swift
-//  Metro 2033
-//
-//  Created by Pritesh Desai on 1/4/25.
-//
-
 import SwiftUI
 
 struct CharacterDetailView: View {
