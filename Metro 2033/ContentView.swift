@@ -1,24 +1,14 @@
-//
-//  ContentView.swift
-//  Metro 2033
-//
-//  Created by Pritesh Desai on 12/12/24.
-//
-
 import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
-        }
-        .padding()
+        CharacterListView()
     }
 }
 
-#Preview {
-    ContentView()
+// MARK: - Preview
+struct ContentView_Previews: PreviewProvider {
+    static var previews: some View {
+        CharacterListView()
+    }
 }
